@@ -11,7 +11,8 @@
 
 # How to: Build the project
 - Clone the project
-- Update all packages
+- Open project source\outliers\outlierse.sln
+- Update all packages (Usually auto during build)
 - Build
 
 # How to: Run a release build
