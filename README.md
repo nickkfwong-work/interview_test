@@ -11,7 +11,7 @@
 
 # How to: Build the project
 - Clone the project
-- Open project source\outliers\outlierse.sln
+- Open project source\outliers\outliers.sln
 - Update all packages (Usually auto during build)
 - Build
 
