@@ -14,7 +14,7 @@
 - Update all packages
 - Build
 
-#How to: Run a release build
+# How to: Run a release build
 - To run a release build, type below command in command prompt:
 - > outliers.exe [input path] [output path]
 
